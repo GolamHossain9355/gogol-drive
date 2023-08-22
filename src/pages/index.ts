@@ -1,0 +1,6 @@
+export { default as Register } from "./authentication/Register"
+export { default as Login } from "./authentication/Login"
+export { default as Profile } from "./authentication/Profile"
+export { default as ResetPassword } from "./authentication/ResetPassword"
+export { default as UpdateProfile } from "./authentication/UpdateProfile"
+export { default as Dashboard } from "./gogol-drive/Dashboard"
