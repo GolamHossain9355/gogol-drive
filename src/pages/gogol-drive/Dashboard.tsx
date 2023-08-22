@@ -49,8 +49,7 @@ export default function Dashboard({}: Props) {
             <div className="d-flex flex-wrap">
                {childFiles.map((childFile) => (
                   <div
-                     className="p-2"
-                     style={{ maxWidth: "250px" }}
+                     className="p-2 pb-0"
                      key={childFile.id}
                   >
                      <File file={childFile} />
