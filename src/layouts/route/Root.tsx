@@ -5,8 +5,8 @@ type Props = object
 
 export default function Root({}: Props) {
    return (
-      <div className="">
+      <>
          <Outlet />
-      </div>
+      </>
    )
 }

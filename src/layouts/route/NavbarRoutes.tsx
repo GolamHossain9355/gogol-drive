@@ -6,20 +6,24 @@ type Props = object
 
 export default function NavbarRoutes({}: Props) {
    return (
-      <Container fluid>
+      <Container fluid className="p-0">
          <Navbar bg="light" expanded={true} expand="xg">
-            <Navbar.Brand to="/" as={Link}>
-               WDS Drive
-            </Navbar.Brand>
+            <div className="d-flex container">
+               <Navbar.Brand className="m-2 my-0 mr-0" to="/" as={Link}>
+                  WDS Drive
+               </Navbar.Brand>
 
-            <Nav>
-               <Nav.Link to="/profile" as={Link}>
-                  Profile
-               </Nav.Link>
-            </Nav>
+               <Nav>
+                  <Nav.Link to="/profile" as={Link}>
+                     Profile
+                  </Nav.Link>
+               </Nav>
+            </div>
          </Navbar>
 
-         <Outlet />
+         <div className="container">
+            <Outlet />
+         </div>
       </Container>
    )
 }
