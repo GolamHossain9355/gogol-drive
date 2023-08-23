@@ -15,7 +15,7 @@ An innovative project, the Google Drive Clone offers a modern and user-friendly 
 
 ## Demo
 
--  [Live Demo](https://google-drive.vercel.app)
+-  [Live Demo](https://gogol-drive.vercel.app)
 
 ## Features
 
