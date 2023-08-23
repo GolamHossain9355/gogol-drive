@@ -13,6 +13,17 @@ An innovative project, the Google Drive Clone offers a modern and user-friendly 
 -  [Reflection](#reflection)
 -  [Acknowledgements](#acknowledgements)
 
+## Features
+
+-  Seamless sign-up and sign-in process powered by Firebase's email and password authentication system.
+-  User-friendly dashboard page upon signing in, serving as the project's root folder.
+-  Intuitive folder and file creation through dedicated buttons on the dashboard.
+-  Nested folder support, enabling users to organize their files within a hierarchical structure.
+-  Breadcrumb navigation for a clear understanding of the current location within the nested folders.
+-  Convenient back-navigation feature, allowing users to move freely back to any chosen folder.
+-  Utilization of Firebase Storage and Firestore for efficient backend data storage.
+-  URL sharing functionality, enabling users to share file URLs with others.
+
 ## Demo
 
 -  [Live Demo](https://gogol-drive.vercel.app)
@@ -48,17 +59,6 @@ An innovative project, the Google Drive Clone offers a modern and user-friendly 
 6. **Share:**
 
 -  ![Project Screenshot](./public/images/share.png)
-
-## Features
-
--  Seamless sign-up and sign-in process powered by Firebase's email and password authentication system.
--  User-friendly dashboard page upon signing in, serving as the project's root folder.
--  Intuitive folder and file creation through dedicated buttons on the dashboard.
--  Nested folder support, enabling users to organize their files within a hierarchical structure.
--  Breadcrumb navigation for a clear understanding of the current location within the nested folders.
--  Convenient back-navigation feature, allowing users to move freely back to any chosen folder.
--  Utilization of Firebase Storage and Firestore for efficient backend data storage.
--  URL sharing functionality, enabling users to share file URLs with others.
 
 ## Getting Started
 
