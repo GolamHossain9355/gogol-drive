@@ -17,6 +17,38 @@ An innovative project, the Google Drive Clone offers a modern and user-friendly 
 
 -  [Live Demo](https://gogol-drive.vercel.app)
 
+1. **Register:**
+
+-  ![Project Screenshot](./public/images/register.png)
+
+2. **Login:**
+
+-  ![Project Screenshot](./public/images/login.png)
+
+3. **Forgot Password:**
+
+-  ![Project Screenshot](./public/images/reset-password.png)
+
+4. **Update Profile:**
+
+-  ![Project Screenshot](./public/images/update-profile.png)
+
+5. **Dashboard:**
+
+-  ![Project Screenshot](./public/images/dashboard.png)
+
+5. **Add Folder:**
+
+-  ![Project Screenshot](./public/images/add-folder.png)
+
+6. **Nested Folders:**
+
+-  ![Project Screenshot](./public/images/nested-folders.png)
+
+6. **Share:**
+
+-  ![Project Screenshot](./public/images/share.png)
+
 ## Features
 
 -  Seamless sign-up and sign-in process powered by Firebase's email and password authentication system.
