@@ -9,7 +9,7 @@ type Props = {
 
 export default function FileOptions({ fileUrl }: Props) {
    const [open, setOpen] = useState(false)
-   const [copied, setCopied] = useState(false) // State for tracking clipboard status
+   const [copied, setCopied] = useState(false) 
 
    const openModal = () => setOpen(true)
 
